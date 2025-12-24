@@ -94,9 +94,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st
 #EXTHTTP:{"cookie":"__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a&xxx=||cookie=__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a
 
-#EXTINF:-1 tvg-id="3" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Marathi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://public.kliv.fun/zs2020/Sony/stream.php?id=3
+#EXTINF:-1 group-title="-" tvg-id="sonymarathi.in",SONY MARATHI
+http://103.83.80.54:6088/play/a0ft/index.m3u8
+
 
 
 
