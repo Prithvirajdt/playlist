@@ -94,8 +94,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st
 #EXTHTTP:{"cookie":"__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a&xxx=||cookie=__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a
 
-#EXTINF:-1 tvg-id="1000009259" tvg-name="SONY MARATHI" group-title="Entertainment" tvg-language="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",SONY MARATHI
-https://dai.google.com/linear/hls/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-id="476737" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="Entertainment",SONY MARATHI 
+http://21dec2o27-rkdyiptv.wasmer.app/play.php?id=476737
+
 
 
 
