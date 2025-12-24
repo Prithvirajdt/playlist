@@ -70,3 +70,31 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_MarathiBana_BTS/output/index.mpd
 #EXTHTTP:{"cookie":"__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_Umang_BTS/output/index.mpd?__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e&xxx=%7Ccookie=__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e
 
+#EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ebd37e936867596a868cc085070e4cd5&key=f5c58e6bf0a2deb018fe87a934a6a1d0
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/output/index.mpd?__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a&xxx=||cookie=__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a
+
+#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png",Sony Pal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=951fda0637ef58608a0cc62a31c7f594&key=59bcb68bb58d93ae568879b8ef4185a2
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a&xxx=||cookie=__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a
+
+#EXTINF:-1 tvg-id="471" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony SAB HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0449d593e6bb5a81a7ab5c5986e5940b&key=c0abc7e159389031e53a4b8dfa53d141
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a&xxx=||cookie=__hdnea__=st=1766538669~exp=1766625069~acl=/*~hmac=0dce58cb9685cdc2c031e8124e22a7a017369faa631ab40119bafee0c787ca3a
+
+#EXTINF:-1 tvg-id="sonymarathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment",Sony Marathii
+https://livetv-cb7.pages.dev/Sonyliv?channel=Sony%20Marathii&token=Arg6u&type=.m3u8
+
+
