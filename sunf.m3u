@@ -495,13 +495,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd?__hdnea__=st
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="1340" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png",HooplaKidz TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbd95fc6a9e453f0a47c5765a6a50124:533ca1d6c99de08b40e3110329ed077a
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Hoopla_Kids_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
-
 #EXTINF:-1 tvg-id="1342" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Power_Kids_TV.png",Power Kids TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c867e6bb8e41561681e815aecdf83add:f2d8855d3b06319bbb471f0db395a1d9
@@ -579,30 +572,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd?__hdnea_
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Kids_2_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="1368" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png",Highbrow
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXTVLCOPT:http-user-agent=@Denver1769
-#EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Highbrow_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="1373" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXTVLCOPT:http-user-agent=@Denver1769
-#EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_KIDS_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="1374" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png",The Q Kahaniyan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6df7c5d495985867913a26342c00ac91:c262295c24f5553876f9ea40c381355f
-#EXTVLCOPT:http-user-agent=@Denver1769
-#EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/The_Q_Kahaniyan_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="1375" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/qtoonz.png",Q Toonz
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXTVLCOPT:http-user-agent=@Denver1769
-#EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/qtoonz_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
+
+
+
+
