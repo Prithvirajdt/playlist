@@ -102,6 +102,30 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st
 #EXTINF:-1 tvg-id="1058" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment",SONY MARATHI
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1058
 
+#EXTINF:-1 tvg-id="1132" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6f7b7241b2935a909d389fe318e5baaa&key=65783311644973348f359dc154bb41db
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+
+#EXTINF:-1 tvg-id="336" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",Star Pravah HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac5fe0f7b01659a9aba3475523f71ae1&key=b2e3f3af283a309e24eabe6b8681282e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+
+#EXTINF:-1 tvg-id="1143" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63456f11b1bf599a93a6a4b9a76db2bf&key=b47756e4d8fb938dcbcb72d6d877fbc3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+
 #EXTINF:-1 tvg-id="3088" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SUN_Neo.png",Sun Neo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -153,6 +177,3 @@ https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Entertainment",Zee Horror Nights
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-
-
-
