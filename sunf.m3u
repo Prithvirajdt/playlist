@@ -56,7 +56,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/output/index.mpd?__hdne
 https://jiotvpllive.cdn.jio.com/bpk-tv/Dangal_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png",Dangal 2
-http://202.164.50.194:8000/play/a00p/index.m3u8
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1961" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",Shemaroo TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -171,10 +171,6 @@ https://allinonereborn.xyz/filex.m3u8/live.php?id=279284
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1766713385~acl=%2f*~id=bd9f01ec-7aa4-426e-8438-087013c6dbf0~data=hdntl~hmac=7bb536b3afec0293e713429df7177c5b73d4923f87fd75ee8730e675898421f7
 
-#EXTINF:-1 tvg-id="0-9-348" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1766713385~acl=%2f*~id=bd9f01ec-7aa4-426e-8438-087013c6dbf0~data=hdntl~hmac=7bb536b3afec0293e713429df7177c5b73d4923f87fd75ee8730e675898421f7
-
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Entertainment",Zee Dil Se
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
@@ -212,19 +208,11 @@ http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeeanmolcinema
 #EXTINF:-1 tvg-id="0-9-bigganga" tvg-country="IN" tvg-chno="039" tvg-language="hi" tvg-name="Anmol Cinema 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-title="Movies", Anmol Cinema 2
 https://allinonereborn.xyz/filex.m3u8/live.php?id=701404
 
-#EXTINF:-1 tvg-id="1438" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aad9243981dc5e2aa1d1d25b2e03a20f:45e116c3073675d7ce8f98d479fe223d
-#EXTVLCOPT:http-user-agent=@Denver1769
-#EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/B4U_Movies_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
+#EXTINF:-1 tvg-id="10544" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/64260670Frame_1597877910.webp" group-title="Movies", B4U KADAK
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
-#EXTINF:-1 tvg-id="1442" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXTVLCOPT:http-user-agent=@Denver1769
-#EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/B4U_Kadak_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
+#EXTINF:-1 tvg-id="10548" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp" group-title="Movies", B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
 #EXTINF:-1 tvg-id="1450" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png",Colors Cineplex Superhit
 #KODIPROP:inputstream.adaptive.license_type=clearkey
