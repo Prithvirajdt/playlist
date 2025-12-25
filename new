@@ -1,0 +1,108 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+
+#################### ENTERTAINMENT ####################
+
+#EXTINF:-1 group-title="Entertainment",&TV HD UK
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",&TV HD UK
+https://jmp2.uk/sam-GB3700007OZ.m3u8
+
+#EXTINF:-1 group-title="Entertainment",&TV HD
+http://38.96.178.201/live/AndTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment",BOLLYWOOD MASALA (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DABANGG TV (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DANGAL TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DANGAL 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD ARUN PRABHA
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD BHARATI
+http://cdn-1.pishow.tv/live/10/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD BIHAR
+http://cdn-4.pishow.tv/live/35/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD GIRNAR
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4a7a0c8a-c58d-43d6-baff-13492d67bf3e/2.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD HARYANA
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD INDIA
+http://cdn-1.pishow.tv/live/23/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD NATIONAL
+http://cdn-1.pishow.tv/live/11/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD PUNJABI
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ISHAARA
+https://epiconvh.akamaized.net/ishaara/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",NAZAARA
+https://epiconvh.akamaized.net/nazara/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SONY SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",STAR PLUS HD
+http://38.96.178.201/live/StarPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ZEE TV HD
+http://38.96.178.201/live/ZEETV/tracks-v1a1/mono.m3u8
+
+
+#################### MOVIES ####################
+
+#EXTINF:-1 group-title="Movies",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 group-title="Movies",B4U MOVIES
+http://38.96.178.201/live/B4UMovie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Movies",GOLDMINES MOVIES
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 group-title="Movies",SONY MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 group-title="Movies",SONY PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 group-title="Movies",STAR GOLD HD
+http://38.96.178.201/live/StarGold/tracks-v1a1/mono.m3u8
+
+
+#################### SPORTS ####################
+
+#EXTINF:-1 group-title="Sports",DD SPORTS
+http://38.96.178.201/live/DDSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 1 HD
+https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
