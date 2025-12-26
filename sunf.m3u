@@ -43,7 +43,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_SD_MOB/WDVLive/index.mpd?_
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="20359" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Entertainment",COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="20359" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj-A1nCwvy0a1Voo12QRwJXh-zBC8RSCrUQ&s" group-title="Entertainment",COMEDY CENTRAL  
 https://allinonereborn.xyz/push4k/index.php?id=20359
 
 #EXTINF:-1 tvg-id="1622" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",Dangal
@@ -240,16 +240,16 @@ https://allinonereborn.xyz/filex.m3u8/live.php?id=701303
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
 https://allinonereborn.xyz/filex.m3u8/live.php?id=701302 
 
-#EXTINF:-1 tvg-id="22136" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Movies",MOVIES NOW 
+#EXTINF:-1 tvg-id="22136" tvg-logo="https://www.pngkey.com/png/full/107-1070590_movies-now-movies-now-logo-png.png" group-title="Movies",MOVIES NOW 
 https://allinonereborn.xyz/push4k/index.php?id=22136
 
-#EXTINF:-1 tvg-id="350" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Movies",MNX HD 
+#EXTINF:-1 tvg-id="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Movies",MNX HD 
 https://allinonereborn.xyz/push4k/index.php?id=350
 
 #EXTINF:-1 tvg-id="7134" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/6720.png" group-title="Movies",MN PLUS 
 https://allinonereborn.xyz/push4k/index.php?id=7134 
 
-#EXTINF:-1 tvg-id="7137" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Movies",ROMEDY NOW 
+#EXTINF:-1 tvg-id="7137" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="Movies",ROMEDY NOW 
 https://allinonereborn.xyz/push4k/index.php?id=7137
 
 #EXTINF:-1 tvg-id="1397" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png",Shemaroo MarathiBana
@@ -447,9 +447,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd?__hdnea
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-logo="usus" tvg-name="DISNEY HD" group-title="Kids",DISNEY HD
-http://66.102.120.18:8000/play/a013/index.m3u8
-
 #EXTINF:-1 tvg-id="1335" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
@@ -464,7 +461,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdne
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="14443" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/14146.jpg" group-title="Kids",DISNEY XD English 
+#EXTINF:-1 tvg-id="14443" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBU_M3ZLhgWHqPVckd7fB-Tjxt0z3dQC3uw&s" group-title="Kids",DISNEY XD  
 https://allinonereborn.xyz/push4k/index.php?id=14443
 
 #EXTINF:-1 tvg-id="1337" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png",Hungama
@@ -551,7 +548,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mp
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="15434" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/15227.png" group-title="Kids",YTV  
+#EXTINF:-1 tvg-id="15434" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ytv_logo.png" group-title="Kids",YTV  
 https://allinonereborn.xyz/push4k/index.php?id=15434 
-
 
