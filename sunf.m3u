@@ -144,11 +144,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Marathi_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1766799757~acl=%2f*~id=a3283f86-d8c2-4fc2-8626-603a14e45f35~data=hdntl~hmac=ebaaccbfcdfb9ae9f59b86bdb4577bdc47505990f5aac5bc3ead40bacabada01
 
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1766799757~acl=%2f*~id=a3283f86-d8c2-4fc2-8626-603a14e45f35~data=hdntl~hmac=ebaaccbfcdfb9ae9f59b86bdb4577bdc47505990f5aac5bc3ead40bacabada01
 
-#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
+#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1766799757~acl=%2f*~id=a3283f86-d8c2-4fc2-8626-603a14e45f35~data=hdntl~hmac=ebaaccbfcdfb9ae9f59b86bdb4577bdc47505990f5aac5bc3ead40bacabada01
 
@@ -556,4 +556,5 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd?__hdnea_
 
 #EXTINF:-1 tvg-id="15434" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ytv_logo.png" group-title="Kids",YTV  
 https://allinonereborn.xyz/push4k/index.php?id=15434 
+
 
