@@ -6,95 +6,47 @@
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1766666536~acl=%2f*~id=4974def2-733a-485d-98a1-60fef814b72d~data=hdntl~hmac=80e7f8f5a3ef0580bfc53f5279217454f3a8c584a0c94de46a8ba8ea9f98c899
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1766799757~acl=%2f*~id=a3283f86-d8c2-4fc2-8626-603a14e45f35~data=hdntl~hmac=ebaaccbfcdfb9ae9f59b86bdb4577bdc47505990f5aac5bc3ead40bacabada01
 
 #EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-country="IN" tvg-chno="029" tvg-language="hi" tvg-name="Anmol TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/list/1920x1080listef6865f9714b40139037d98300559cd7.jpg" group-title="Entertainment", Anmol TV
 http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeeanmol
 
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1766666536~acl=%2f*~id=4974def2-733a-485d-98a1-60fef814b72d~data=hdntl~hmac=80e7f8f5a3ef0580bfc53f5279217454f3a8c584a0c94de46a8ba8ea9f98c899
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1766799757~acl=%2f*~id=a3283f86-d8c2-4fc2-8626-603a14e45f35~data=hdntl~hmac=ebaaccbfcdfb9ae9f59b86bdb4577bdc47505990f5aac5bc3ead40bacabada01
 
-#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png",Colors HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d9025bf5bbe6502cab58edaa0b50750b&key=91b5ca6ebefe3a977cb6fcae31868664
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" tvg-name="Colors HD" group-title="Entertainment",Colors HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1158" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=509216860f8e594aaf7e921296f53851&key=536df1e35e2bb055be0117b51db8139c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-name="Colors Infinity HD" group-title="Entertainment",Colors Infinity HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1326" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",Colors Marathi SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d60fa0c54e625171a1f6594a41b727c6&key=deca7c933b6aa0c968c2620c46130360
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" tvg-name="Colors Marathi HD" group-title="Entertainment",Colors Marathi HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="279" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png",Colors Rishtey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=190829c4e2b05b8ca547d2cd30ab3bba&key=a28225e91492ce2d6601874c701bf9bd
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" tvg-name="Colors Rishtey" group-title="Entertainment",Colors Rishtey
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="701" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",Dangal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=88295124db295a6b9f5027dc6049e294&key=641c40230a95cb76d1949125f9552fda
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Dangal_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" tvg-name="Dangal" group-title="Entertainment",Dangal
+https://jiotvpllive.cdn.jio.com/bpk-tv/Dangal_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1961" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",Shemaroo TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca5769c7002a5baaa1a7213fb5b702f1:ca9b74278d4ab34a04dbeef64bc5e6dd
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_TV_BTS/output/index.mpd?__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e&xxx=%7Ccookie=__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-name="Shemaroo TV" group-title="Entertainment",Shemaroo TV
+https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_TV_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="2078" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png",Shemaroo Umang
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ba27f8e3a0350aa9bc40bb7ae07c83a:de1036911f7232a8f58d18bf6f21820b
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_Umang_BTS/output/index.mpd?__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e&xxx=%7Ccookie=__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" tvg-name="Shemaroo Umang" group-title="Entertainment",Shemaroo Umang
+https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_Umang_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony SET HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ebd37e936867596a868cc085070e4cd5&key=f5c58e6bf0a2deb018fe87a934a6a1d0
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-name="SET HD" group-title="Entertainment",Sony SET HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png",Sony Pal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=951fda0637ef58608a0cc62a31c7f594&key=59bcb68bb58d93ae568879b8ef4185a2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" tvg-name="Sony Pal" group-title="Entertainment",Sony Pal
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="471" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",Sony SAB HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0449d593e6bb5a81a7ab5c5986e5940b&key=c0abc7e159389031e53a4b8dfa53d141
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" tvg-name="Sony SAB HD" group-title="Entertainment",Sony SAB HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
 #EXTINF:-1 tvg-id="1681" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -103,53 +55,24 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMarathi_MOB/WDVLive/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="931" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=701524f373c55b2785ac49aab0bdc4a6&key=9de42eedb40f6c243848eb8aa8103e32
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" tvg-name="Star Bharat HD" group-title="Entertainment",Star Bharat HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1132" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6f7b7241b2935a909d389fe318e5baaa&key=65783311644973348f359dc154bb41db
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" tvg-name="Star Plus HD" group-title="Entertainment",Star Plus HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="336" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",Star Pravah HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac5fe0f7b01659a9aba3475523f71ae1&key=b2e3f3af283a309e24eabe6b8681282e
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" tvg-name="Star Pravah HD" group-title="Entertainment",Star Pravah HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1143" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63456f11b1bf599a93a6a4b9a76db2bf&key=b47756e4d8fb938dcbcb72d6d877fbc3
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" tvg-name="Star Utsav" group-title="Entertainment",Star Utsav
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="3088" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SUN_Neo.png",Sun Neo HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eb1144c7fd6e58a68123e7c586ce6e25&key=b03cb03960713d69ec37c0cded721fc5
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SUN_Neo_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SUN_Neo.png" tvg-name="Sun Neo HD" group-title="Entertainment",Sun Neo HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/SUN_Neo_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" tvg-name="Sun News" group-title="News",Sun News
 
-#EXTINF:-1 tvg-id="2424" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png",Sun Marathi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f5caecf34c8f5453bbbd851a2dc424ed&key=b600a7ad14865399462b9eeb3a10e72c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Marathi_MOB/WDVLive/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png" tvg-name="Sun Marathi" group-title="Entertainment",Sun Marathi
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Marathi_MOB/WDVLive/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -214,34 +137,17 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-id="10548" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp" group-title="Movies", B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
-#EXTINF:-1 tvg-id="1450" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png",Colors Cineplex Superhit
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=234f3bf300e75c93a3825d54b1c0520b&key=53a4b6981fb1872c0ad4d197066e8c1f
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" tvg-name="Colors Cineplex" group-title="Movies",Colors Cineplex
+https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_MOB/WDVLive/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="482" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_MOB/WDVLive/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" tvg-name="Colors Cineplex Bollywood" group-title="Movies",Colors Cineplex Bollywood
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1477" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png",Colors Cineplex HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc74a4c7b66856f19ce77fffecd18590&key=5532bd5f660547d3b82992f1ef471d6a
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexHD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" tvg-name="Colors Cineplex HD" group-title="Movies",Colors Cineplex HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexHD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1763" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png",Colors Cineplex Bollywood
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=061b3f55b6695e978b208f5117e609ee&key=9a6da304db8cfb545805d3152a5d66ed
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" tvg-name="Colors Cineplex Superhit" group-title="Movies",Colors Cineplex Superhit
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
 #EXTINF:-1 tvg-id="Goldmines.Movies.in" tvg-name="GOLDMINES MOVIES" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",GOLDMINES MOVIES 
 https://allinonereborn.xyz/filex.m3u8/live.php?id=701300
@@ -252,12 +158,20 @@ https://allinonereborn.xyz/filex.m3u8/live.php?id=701303
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
 https://allinonereborn.xyz/filex.m3u8/live.php?id=701302 
 
-#EXTINF:-1 tvg-id="1452" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png",Shemaroo MarathiBana
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=194efe66d4ef5076bddacbbb83b1244c:01caeb3d6ad846e0f4e95f96ab40b620
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_MarathiBana_BTS/output/index.mpd?__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e&xxx=%7Ccookie=__hdnea__=st=1766579455~exp=1766665855~acl=/*~hmac=722dfd5a11aa67ddded7a15f6f7252621bdc9dccdcd495375549a87a7213c05e
+#EXTINF:-1 tvg-id="22136" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Movies",MOVIES NOW 
+https://allinonereborn.xyz/push4k/index.php?id=22136
+
+#EXTINF:-1 tvg-id="350" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="MoviesS",MNX HD 
+https://allinonereborn.xyz/push4k/index.php?id=350
+
+#EXTINF:-1 tvg-id="7134" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/6720.png" group-title="Movies",MN PLUS 
+https://allinonereborn.xyz/push4k/index.php?id=7134 
+
+#EXTINF:-1 tvg-id="7137" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIAN MOVIES",ROMEDY NOW 
+https://allinonereborn.xyz/push4k/index.php?id=7137
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" tvg-name="Shemaroo MarathiBana" group-title="Movies",Shemaroo MarathiBana
+https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_MarathiBana_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
 #EXTINF:-1 tvg-id="1439" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony Max SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -266,141 +180,57 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_MarathiBana_BTS/output/index.mpd
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_Max_SD_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="476" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fe8b5e6e0a275d7fbfeb27abf9b75c0b&key=c27da65de4d17976409daed680b1e9a1
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" tvg-name="Sony Max HD" group-title="Movies",Sony Max HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="3418" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png",Sony MAX1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2a1a2b85777a564ba74e8f38ab063def&key=695f02cdce09b8e5aa7ab9fdeb596bbe
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX1_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png" tvg-name="Sony MAX1" group-title="Movies",Sony MAX1
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX1_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="483" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png",Sony MAX2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1752d0d071595248b4b6f9f12be72905&key=b5ce3a8fbe603561190c6f8fcbb34c55
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX2_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-name="Sony MAX2" group-title="Movies",Sony MAX2
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX2_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="762" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png",Sony Pix HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00426b6344e351f491f324a94b62cd2f&key=ae3a59fe9918e7180ed65e2c842f7cc8
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+/jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" tvg-name="Sony Pix HD" group-title="Movies",Sony Pix HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" tvg-name="Sony SAB HD" group-title="Entertainment",Sony SAB HD
 
-#EXTINF:-1 tvg-id="1393" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png",Sony Wah
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f87b89f3549e5bdb969cb35ea57827b7&key=022f3fcd6c3035ed2843b0b45bff4304
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyWAH_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" tvg-name="Sony Wah" group-title="Entertainment",Sony Wah
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyWAH_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1125" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",Star Gold
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=940a0a4080f553cab03ec23a2e80cf7c&key=b162354170b54cb588182eb75681cac0
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" tvg-name="Star Gold" group-title="Movies",Star Gold
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="156" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ec7ad3786d9e5efa9e0c4aeb3e58c7b7&key=907509ccae7e68b30ae75b5d09fe60ef
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" tvg-name="Star Gold 2" group-title="Movies",Star Gold 2
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1154" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png",Star Gold 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2db0cd9cb0685309b48e322c83192bda&key=e13bf7a33eb2e19a8f19568dd383ba6d
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" tvg-name="Star Gold 2 HD" group-title="Movies",Star Gold 2 HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="3096" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",Star Gold 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e6afa4754bc15dd28ab6806f417d319d&key=6a74ef2884813547109ee96098610387
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-name="Star Gold HD" group-title="Movies",Star Gold HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="3097" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",Star Gold Romance
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee6e9f18a6c155e3855700b34fa8436f&key=b670c81b0e4f7f19f1fbeac0eaa7fba8
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Romance_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" tvg-name="Star Gold Romance" group-title="Movies",Star Gold Romance
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Romance_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1119" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png",Star Gold Select
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=09706397be655eb6a26c6ba99b65e6d5&key=acb1ebe04e2a29fe098d532d7a506846
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" tvg-name="Star Gold Select" group-title="Movies",Star Gold Select
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1113" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Star Gold Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2cb38dd5e6235bd9936ad7a29bc7ffd8&key=281d7b329be4e22d4e0e3e1d508ba2a4
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" tvg-name="Star Gold Select HD" group-title="Movies",Star Gold Select HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="3098" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",Star Gold Thrills
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=189ccd629ff25ec1adc2e34d49b186eb&key=fd102ddbd3844b55b70c6aa23dbd212b
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" tvg-name="Star Gold Thrills" group-title="Movies",Star Gold Thrills
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1104" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ac6943751e558b181da32727f03dff7&key=f36e5cd48252bcd0fcda2bfe21f5b365
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-name="Star Movies HD" group-title="Movies",Star Movies HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1110" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b55393cd147a54debaf2b0f2d82b5d9f&key=6b168db49241a78c1b423ab9a29409ef
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" tvg-name="Star Movies Select HD" group-title="Movies",Star Movies Select HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="3100" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png",Star Pravah Picture HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=71f9041eea4954e6acf66f0c50d5ebf9&key=98148dde17f872774f443297745df456
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" tvg-name="Star Pravah Picture HD" group-title="Movies",Star Pravah Picture HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
-#EXTINF:-1 tvg-id="1136" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png",Star Utsav Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1faf9c42dfe45669a70c470359886145&key=5a229a5f6f270c880b24014bf3cd6ee7
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd?__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a&xxx=||cookie=__hdnea__=st=1766625114~exp=1766711514~acl=/*~hmac=eda3dc832cc80a8cd0d3d440dd0de11637b4739e1cf1abf5c132aa9cd11d352a
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" tvg-name="Star Utsav Movies" group-title="Movies",Star Utsav Movies
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd?__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3&xxx=||cookie=__hdnea__=st=1766711535~exp=1766797935~acl=/*~hmac=8d566b43a85ec08390144c97afae2ffb7858d0cf9b31370476e6d83fa7f0cad3
 
 #EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -464,6 +294,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd?__hdnea
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
+#EXTINF:-1 tvg-logo="usus" tvg-name="DISNEY HD" group-title="Kids",DISNEY HD
+http://66.102.120.18:8000/play/a013/index.m3u8
+
 #EXTINF:-1 tvg-id="1335" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
@@ -477,6 +310,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
+
+#EXTINF:-1 tvg-id="14443" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/14146.jpg" group-title="Kids",DISNEY XD English 
+https://allinonereborn.xyz/push4k/index.php?id=14443
 
 #EXTINF:-1 tvg-id="1337" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png",Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -561,4 +397,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mp
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
+
+#EXTINF:-1 tvg-id="15434" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/15227.png" group-title="Kids",YTV  
+https://allinonereborn.xyz/push4k/index.php?id=15434 
 
