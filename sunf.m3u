@@ -43,7 +43,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_SD_MOB/WDVLive/index.mpd?_
 #EXTHTTP:{"cookie":"__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/output/index.mpd?__hdnea__=st=1766665801~exp=1766752201~acl=/*~hmac=fb99af2a05f2254aeec68a72a766149ff3d4391053d78a41ff5fc5ab3a576eba
 
-#EXTINF:-1 tvg-id="20359" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="USA",COMEDY CENTRAL USA 
+#EXTINF:-1 tvg-id="20359" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Entertainment",COMEDY CENTRAL 
 https://allinonereborn.xyz/push4k/index.php?id=20359
 
 #EXTINF:-1 tvg-id="1622" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",Dangal
@@ -553,4 +553,5 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd?__hdnea_
 
 #EXTINF:-1 tvg-id="15434" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/15227.png" group-title="Kids",YTV  
 https://allinonereborn.xyz/push4k/index.php?id=15434 
+
 
