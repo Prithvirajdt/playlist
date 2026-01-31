@@ -28,6 +28,11 @@ jobs:
       # --------------------------------------------------
       - name: Download source playlist
         run: |
+          if [ -z "${{ secrets.SRC_ZEENEW }}" ]; then
+            echo "❌ SRC_ZEENEW secret is missing"
+            exit 1
+          fi
+
           curl -L "${{ secrets.SRC_ZEENEW }}" -o source.m3u
 
       # --------------------------------------------------
@@ -65,4 +70,3 @@ jobs:
           else
             echo "No changes to commit"
           fi
-
