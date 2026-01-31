@@ -3,7 +3,7 @@ name: Update Zee Playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *"   # Every 3 hours
+    - cron: "0 */3 * * *"   # every 3 hours
 
 jobs:
   update-zee:
@@ -11,32 +11,30 @@ jobs:
 
     steps:
       # --------------------------------------------------
-      # STEP 1: CHECKOUT REPOSITORY (NO SECRETS)
+      # STEP 1: CHECKOUT REPOSITORY
       # --------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
 
       # --------------------------------------------------
-      # STEP 2: ENSURE PLAYLIST DIRECTORY EXISTS
+      # STEP 2: ENSURE REQUIRED DIRECTORIES
       # --------------------------------------------------
-      - name: Ensure playlist directory exists
+      - name: Ensure directories exist
         run: |
+          mkdir -p sources
           mkdir -p playlist
 
       # --------------------------------------------------
-      # STEP 3: DOWNLOAD SOURCE M3U (SECRET ONLY HERE)
+      # STEP 3: DOWNLOAD SOURCE PLAYLIST (SECRET HIDDEN)
       # --------------------------------------------------
-      - name: Download source playlist
+      - name: Download playlist (source hidden)
+        env:
+          SRC_ZEENEW: ${{ secrets.SRC_ZEENEW }}
         run: |
-          if [ -z "${{ secrets.SRC_ZEENEW}}" ]; then
-            echo "❌ SRC_ZEENEW secret is missing"
-            exit 1
-          fi
-
-          curl -L "${{ secrets.SRC_ZEENEW }}" -o source.m3u
+          wget -q -O sources/zee.m3u "$SRC_ZEENEW"
 
       # --------------------------------------------------
-      # STEP 4: EXTRACT ZEE CHANNELS (CASE-INSENSITIVE)
+      # STEP 4: FILTER ZEE CHANNELS (CASE-INSENSITIVE)
       # --------------------------------------------------
       - name: Generate Zee playlist
         run: |
@@ -46,17 +44,10 @@ jobs:
             block="#EXTINF"$0
             if (tolower(block) ~ /zee/) print block
           }
-          ' source.m3u > playlist/Z.vxn
+          ' sources/zee.m3u > playlist/Z.vxn
 
       # --------------------------------------------------
-      # STEP 5: CLEANUP TEMP FILES
-      # --------------------------------------------------
-      - name: Cleanup
-        run: |
-          rm -f source.m3u
-
-      # --------------------------------------------------
-      # STEP 6: COMMIT & PUSH ONLY IF CHANGED
+      # STEP 5: COMMIT & PUSH ONLY IF CHANGED
       # --------------------------------------------------
       - name: Commit and push changes
         run: |
@@ -68,5 +59,5 @@ jobs:
             git commit -m "Auto-update Zee playlist (Z.vxn)"
             git push
           else
-            echo "No changes to commit"
+            echo "No changes detected"
           fi
