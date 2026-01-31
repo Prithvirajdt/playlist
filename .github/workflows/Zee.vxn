@@ -1,1 +1,68 @@
+name: Update Zee Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"   # Every 3 hours
+
+jobs:
+  update-zee:
+    runs-on: ubuntu-latest
+
+    steps:
+      # --------------------------------------------------
+      # STEP 1: CHECKOUT REPOSITORY (NO SECRETS)
+      # --------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # --------------------------------------------------
+      # STEP 2: ENSURE PLAYLIST DIRECTORY EXISTS
+      # --------------------------------------------------
+      - name: Ensure playlist directory exists
+        run: |
+          mkdir -p playlist
+
+      # --------------------------------------------------
+      # STEP 3: DOWNLOAD SOURCE M3U (SECRET ONLY HERE)
+      # --------------------------------------------------
+      - name: Download source playlist
+        run: |
+          curl -L "${{ secrets.SRC_ZEENEW }}" -o source.m3u
+
+      # --------------------------------------------------
+      # STEP 4: EXTRACT ZEE CHANNELS (CASE-INSENSITIVE)
+      # --------------------------------------------------
+      - name: Generate Zee playlist
+        run: |
+          awk '
+          BEGIN { RS="#EXTINF"; ORS="" }
+          NR>1 {
+            block="#EXTINF"$0
+            if (tolower(block) ~ /zee/) print block
+          }
+          ' source.m3u > playlist/Z.vxn
+
+      # --------------------------------------------------
+      # STEP 5: CLEANUP TEMP FILES
+      # --------------------------------------------------
+      - name: Cleanup
+        run: |
+          rm -f source.m3u
+
+      # --------------------------------------------------
+      # STEP 6: COMMIT & PUSH ONLY IF CHANGED
+      # --------------------------------------------------
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add playlist/Z.vxn
+            git commit -m "Auto-update Zee playlist (Z.vxn)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
 
