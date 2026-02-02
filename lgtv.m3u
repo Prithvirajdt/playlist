@@ -24,9 +24,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvaapkiadalat-lg
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bollywood-masala-tv-epg/logo/Bollywood Masala Tv_400x200.png" group-title="Movies",bollywood-masala-tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://vglivessai.akamaized.net/ptnr-lg/title-Bollywood_Masala-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f596316d-2890-43c9-b30d-eb7cc081a837/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/pitaara-comedy/logo/pitaara comedy_400x200.png" group-title="Comedy",Pitaara comedy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TeluguOne/teluguone_logo_resized_400x200.png" group-title="Entertainment",Telugu One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg02821-objectone-amg02821c1-lg-in-4934.playouts.now.amagi.tv/playlist/amg02821-objectone-teluguone-lgin/playlist.m3u8
@@ -183,18 +180,9 @@ https://streams2.sofast.tv/ptnr-lgtv/title-4K-TRAVEL-TV-ENG_LG/v1/master/611d79b
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/heritage/logo/Heritage-400x200.png" group-title="Lifestyle",HERITAGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://streams2.sofast.tv/ptnr-lg/title-HERITAGE-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/074c919f-f587-4da2-bea0-345fcb1401c5/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bhakti-play/logo/Bhakti_Play_Logo_400x200.png" group-title="Devotional",BHAKTI-PLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://vglivessai.akamaized.net/ptnr-lg/title-Bhakti_Play_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/566e7ecc-960b-4ce8-969e-fe622122b6b2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya/logo/divya_logo_400x200.png" group-title="Devotional",Divya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://vglivessai.akamaized.net/ptnr-lg/title-Divya_TV_NONSSAI_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed18b2e1-80b8-4f13-a763-bc28a0674e30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya-bhajan/logo/divya bhajan_logo_400x200.png" group-title="Devotional",Divya Bhajan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://vglivessai.akamaized.net/ptnr-lgtv/title-Divya_Bhajan_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6ab55dbd-de45-4239-80ea-8eacc13066b6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SikhRatnavali/LG/Logo400x200.jpg" group-title="Devotional",Sikh Ratnavali
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg00223-amg00223c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00223-amg00223c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/CRICKET-GOLD-USA/logo/Cricket-Gold_400x200.png" group-title="Sports",CRICKET-GOLD-USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://vglivessai.akamaized.net/ptnr-lg/title-CricketGold-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2d588e31-21da-4f74-9fc8-a1313ce2b053/manifest.m3u8
