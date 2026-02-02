@@ -153,15 +153,6 @@ https://amg00223-unisys-amg00223c4-lg-in-2049.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJhakkas/9xjahakas400x200_logo.jpg" group-title="Music",9XJhakkas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_263/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Lifestyle",K-ASMR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_246/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Lifestyle",essential;
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://ads.its-newid.net/api/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_040/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Music",@K-MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://ads.its-newid.net/api/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/ITVYOGA/ITVYogalogo200x400.png" group-title="Lifestyle",IndiaTV Yoga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg01550-indiatv-amg01550c2-lg-in-5515.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvyoga-lgin/playlist.m3u8
