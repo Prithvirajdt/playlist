@@ -276,6 +276,10 @@ https://amg02481-amg02481c2-lg-in-5172.playouts.now.amagi.tv/playlist/amg02481-i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-internalapp-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/E24/E24-Logo.jpg" group-title="Music",E 24 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/india-daily-24x7/logo/India daily_logo_400x200.png" group-title="News",India Daily 24x7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://vglivessai.akamaized.net/ptnr-lg/title-India_Daily_24*7/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/594fc7fe-7762-4362-aba6-f3958757b8c5/index.m3u8
@@ -312,6 +316,9 @@ https://amg01605-ndtv-amg01605c3-lg-in-2754.playouts.now.amagi.tv/playlist/amg01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/E24/E24-Logo.jpg" group-title="Music",E 24 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8
+
+
+
+
+
+
