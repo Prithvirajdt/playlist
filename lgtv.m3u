@@ -280,7 +280,7 @@ https://amg01605-ndtv-amg01605c3-lg-in-2754.playouts.now.amagi.tv/playlist/amg01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="63651" tvg-name="Kings Of Comedy" group-title="Comedy", Kings Of Comedy
+#EXTINF:-1 tvg-id="63651" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJg1mppsfOhuFxzFCNEuAyhSrRalb9-wK23g&s" group-title="Comedy", Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H
 
 #EXTINF:-1 tvg-id="63651" tvg-name="The Movie Club" group-title="Movies", The Movie Club
